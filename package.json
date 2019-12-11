@@ -1,6 +1,6 @@
 {
-  "homepage":"http://byung1231.github.io/react-test",
-  "name": "react-test",
+  "homepage": "http://byung1231.github.io/react-test",
+  "name": "myapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "html-webpack-plugin": "^3.2.0"
   }
 }
