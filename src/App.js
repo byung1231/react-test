@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import theta from './theta.png'
 
 function App() {
   return (
@@ -26,8 +25,6 @@ hellloo<br/>meh<br/>blah<br/>committing from windows. saved on githubb
   );
 }
 
-function Theta = () => <p>Theta<br /> <img src={theta} /></p>
 
 
-export default App;
-export default Theta;
+export default App

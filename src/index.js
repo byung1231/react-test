@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import Theta from './App.js'
+import App from './App';
+import Theta from './Theta.js';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
