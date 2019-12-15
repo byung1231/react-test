@@ -5,11 +5,13 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 
 import App from './App';
-import Theta from './Theta.js';
+import Theta, forms from './Theta.js';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
 ReactDOM.render(<Theta />, document.getElementById('theta'));
+ReactDOM.render(<forms />, document.getElementById('theta'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
