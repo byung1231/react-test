@@ -5,7 +5,8 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 
 import App from './App';
-import Theta, forms from './Theta.js';
+import {Theta, forms} from './Theta.js';
+
 
 
 ReactDOM.render(<App />, document.getElementById('root'));
