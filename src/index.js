@@ -12,7 +12,7 @@ import {Theta, Forms} from './Theta.js';
 ReactDOM.render(<App />, document.getElementById('root'));
 
 ReactDOM.render(<Theta />, document.getElementById('theta'));
-ReactDOM.render(<Forms />, document.getElementById('forms'));
+ReactDOM.render(<Forms />, document.getElementById('formsDiv'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

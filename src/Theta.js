@@ -17,7 +17,7 @@ const Forms = () => (
 <br />
 aa
 <br />
-  <form>
+  <form class="formClass">
     <label>
       Test forms<br/>
       <input type="text" name="aaa" />
