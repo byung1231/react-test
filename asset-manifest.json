@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.2ea59764.chunk.css",
+    "main.js": "/react-test/static/js/main.faecdb46.chunk.js",
+    "main.js.map": "/react-test/static/js/main.faecdb46.chunk.js.map",
+    "runtime-main.js": "/react-test/static/js/runtime-main.27cd5638.js",
+    "runtime-main.js.map": "/react-test/static/js/runtime-main.27cd5638.js.map",
+    "static/js/2.1bef275d.chunk.js": "/react-test/static/js/2.1bef275d.chunk.js",
+    "static/js/2.1bef275d.chunk.js.map": "/react-test/static/js/2.1bef275d.chunk.js.map",
+    "index.html": "/react-test/index.html",
+    "precache-manifest.21fff232ff5659d6ecea34cfcf2e7229.js": "/react-test/precache-manifest.21fff232ff5659d6ecea34cfcf2e7229.js",
+    "service-worker.js": "/react-test/service-worker.js",
+    "static/css/main.2ea59764.chunk.css.map": "/react-test/static/css/main.2ea59764.chunk.css.map",
+    "static/media/logo.svg": "/react-test/static/media/logo.25bf045c.svg",
+    "static/media/theta.png": "/react-test/static/media/theta.398f0c60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27cd5638.js",
+    "static/js/2.1bef275d.chunk.js",
+    "static/css/main.2ea59764.chunk.css",
+    "static/js/main.faecdb46.chunk.js"
+  ]
+}
